@@ -1,4 +1,4 @@
-## Hey 👋, I'm Youssef Shaaban!
+## Hey 👋, I'm Youssef Shapaan!
 <a href='https://www.linkedin.com/in/youssef-shapaan-8b5175288'>
   <img align='left' alt="linkedin" height='18px' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -49,9 +49,8 @@ I love solving problems, implementing data structures, and continuously improvin
 
 ### 📊 Github Stats
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefShapaan&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefShapaan&layout=compact&theme=tokyonight)
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefShapaan&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefShapaan&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 <br>
 
