@@ -1,11 +1,11 @@
 ## Hey 👋, I'm Youssef Shapaan!
 <a href='https://www.linkedin.com/in/youssef-shapaan-8b5175288'>
-  <img align='left' alt="linkedin" height='18px' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align='left' alt="linkedin" height='18px' color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href='mailto:youssefshapaan063@gmail.com'>
+<a href='mailto:youssefshapaan063@gmail.com' color="red">
   <img align='left' alt="gmail" height='18px' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
-<a href='https://github.com/YoussefShapaan'>
+<a href='https://github.com/YoussefShapaan' color="red">
   <img alt="github" height='18px' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
 </a>
 
