@@ -44,16 +44,6 @@ I love solving problems, implementing data structures, and continuously improvin
 <a href="#"><img align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
 
 <br>
-<br>
-<br>
-
-### 📊 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefShapaan&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefShapaan&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-<br>
 
 ### 🛠️ My Projects
 
